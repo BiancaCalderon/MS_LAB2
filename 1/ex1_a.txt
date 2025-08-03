@@ -1,0 +1,18 @@
+Datos del problema
+Refinerías y capacidades:
+Refinería 1: 6 millones de galones
+Refinería 2: 5 millones de galones
+Refinería 3: 8 millones de galones
+
+Demandas:
+Área 1: 4 millones de galones
+Área 2: 8 millones de galones
+Área 3: 7 millones de galones
+
+Distancias (en km):
+
+|             | Área 1 | Área 2 | Área 3 |
+| ----------- | ------ | ------ | ------ |
+| Refinería 1 | 120    | 180    | —      |
+| Refinería 2 | 300    | 100    | 80     |
+| Refinería 3 | 200    | 250    | 120    |
